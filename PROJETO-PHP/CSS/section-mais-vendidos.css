@@ -1,0 +1,34 @@
+.sessão-mais-vendidos{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    border-top: 1px solid #ccc;
+}
+.mais-vendidos-container{
+    display: flex;
+}
+fieldset{
+    margin-top: 30px;
+}
+.produto-4, .produto-5, .produto-6{
+    padding-left: 20px;
+}
+
+/*SESSÃO ICONS*/
+.section-icons{
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #ccc;
+}
+.icons-style{
+    display: flex;
+    margin: 20px 20px;
+}
+.section-icons i{
+    text-align: center;
+    padding-right: 50px;
+}
+.icofont-map, .icofont-like, .icofont-credit-card{
+    font-size: 29px;
+}

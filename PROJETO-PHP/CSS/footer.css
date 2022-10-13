@@ -1,0 +1,14 @@
+.footer-style{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 85px;
+    background: hsl(32, 100%, 59%);
+    text-align: center;
+    border-top: 2px solid #ccc;
+}
+.footer-alinhamento h3, p{
+    margin-top: 16px;
+    font-size: 14px;
+}
+
